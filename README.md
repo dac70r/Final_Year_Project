@@ -7,5 +7,7 @@ The purpose of this project is to engineer a cheap and simple alternative to bra
 
 Our braille display was manufactured almost entirely out of plastic using a 3D printing in the university makerspace lab. Other components such as SG90 motors were also used to drive the braille mechanism itself. 
 
+![Braille Close Up](https://github.com/dac70r/Final_Year_Project/assets/93281166/907b0d02-acfe-4072-a510-ba947e8e79b8)
+
 # Check out my final year project video here: 
 https://youtu.be/cZxDR9CNd1c
