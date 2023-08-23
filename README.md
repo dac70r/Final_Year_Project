@@ -1,4 +1,4 @@
-# ELEC 4900 Final Year Project @ The Hong Kong University of Science & Technology
+# ELEC 4900 Final Year Project @ HKUST
 This is my final year project folder. 
 
 # Introduction 
