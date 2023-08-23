@@ -1,4 +1,4 @@
-# Final Year Project ELEC 4900
+# ELEC 4900 Final Year Project @ The Hong Kong University of Science & Technology
 This is my final year project folder. 
 
 # Introduction 
@@ -7,7 +7,8 @@ The purpose of this project is to engineer a cheap and simple alternative to bra
 
 Our braille display was manufactured almost entirely out of plastic using a 3D printing in the university makerspace lab. Other components such as SG90 motors were also used to drive the braille mechanism itself. 
 
-![Braille Close Up](https://github.com/dac70r/Final_Year_Project/assets/93281166/907b0d02-acfe-4072-a510-ba947e8e79b8)
+![Braille Close Up](https://github.com/dac70r/Final_Year_Project/assets/93281166/ab229571-90c1-4943-88ef-5cc35297467a)
+
 
 # Check out my final year project video here: 
 https://youtu.be/cZxDR9CNd1c
