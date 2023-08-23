@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Mar 24 23:29:43 2023
+# Process ID: 6204
+# Current directory: C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16120 C:\Users\ivan2\Desktop\FYP_VHDL_Rx\FYP_testing\FYP_testing.xpr
+# Log file: C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing/vivado.log
+# Journal file: C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing\vivado.jou
+# Running On: LAPTOP-SUF3QFK3, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17043 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing/FYP_testing.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing/FYP_testing.srcs/sources_1/new/Decoder.v w ]
+add_files C:/Users/ivan2/Desktop/FYP_VHDL_Rx/FYP_testing/FYP_testing.srcs/sources_1/new/Decoder.v
+update_compile_order -fileset sources_1

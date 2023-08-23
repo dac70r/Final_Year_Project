@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Feb 28 13:56:53 2023
+# Process ID: 12416
+# Current directory: C:/Users/ivan2/Desktop/FYP_Test/FYP_testing
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5548 C:\Users\ivan2\Desktop\FYP_Test\FYP_testing\FYP_testing.xpr
+# Log file: C:/Users/ivan2/Desktop/FYP_Test/FYP_testing/vivado.log
+# Journal file: C:/Users/ivan2/Desktop/FYP_Test/FYP_testing\vivado.jou
+# Running On: LAPTOP-SUF3QFK3, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17053 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ivan2/Desktop/FYP_Test/FYP_testing/FYP_testing.xpr
+update_compile_order -fileset sources_1
